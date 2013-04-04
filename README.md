@@ -1,4 +1,3 @@
-
 Raspberry-pi FFT
 ================
 
@@ -9,13 +8,19 @@ to detect the main frequency of the input sound.
 The idea is to use sound commands to control a vehicle
 connected to the raspberry-pi.
 
+Dependencies :
+------------- 
+
+> sudo apt-get install build-essential
+
 Piece of cake instructions : 
 -------------
 
-To build : make
-To run   : make run
+To build : 
+> make
 
-Can it be easier than this?
+To run   : 
+> make run
 
 To run other tests, please try : 
 > cat samples/sample2.wav | ./exec
