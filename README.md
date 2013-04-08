@@ -26,4 +26,5 @@ To run   :
 
 To run other tests, please try : 
 > cat samples/sample2.wav | ./exec
+> arecord -c 1 | ./exec
 
