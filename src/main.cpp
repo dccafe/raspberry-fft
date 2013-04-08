@@ -7,7 +7,7 @@
 #define FFT_WINDOW_SIZE 1024   // Used also for buffer size
 #define WAV_HEADER_SIZE 44     // In bytes
 
-#define TEST
+#define DEVELOPMENT
 //#define DEBUG
 
 using namespace std;
