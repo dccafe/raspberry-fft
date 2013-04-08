@@ -11,6 +11,8 @@ connected to the raspberry-pi.
 Dependencies :
 ------------- 
 
+g++, make
+
 > sudo apt-get install build-essential
 
 Piece of cake instructions : 
